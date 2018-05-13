@@ -1,14 +1,7 @@
-### 0509:
 
-208. Implement Trie (Prefix Tree)
+### 0512
 
-207. Course Schedule
-
-215. Kth Largest Element in an Array,
-
-198. House Robber
-
-169. Majority Element
+Leetcode contest 
 
 
 ### 0510
@@ -38,4 +31,19 @@ new:
 136, single number
 
 121. Best Time to Buy and Sell Stock
+
+
+### 0509:
+
+208. Implement Trie (Prefix Tree)
+
+207. Course Schedule
+
+215. Kth Largest Element in an Array,
+
+198. House Robber
+
+169. Majority Element
+
+
 
