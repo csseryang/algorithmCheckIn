@@ -1,4 +1,31 @@
 
+### 0514
+
+79. Word Search,
+
+94. Binary Tree Inorder Traversal.
+
+98. Validate Binary Search Tree. 
+
+101. Symmetric Tree,
+
+104. Maximum Depth of Binary Tree
+
+### 0513
+
+105. Construct Binary Tree from Preorder and Inorder Traversal. 
+
+104. Maximum Depth of Binary Tree,
+
+101. Symmetric Tree, 
+
+98. Validate Binary Search Tree, 
+
+94. Binary Tree Inorder Traversal.
+
+79. Word Search. 
+
+
 ### 0512
 
 Leetcode contest 
