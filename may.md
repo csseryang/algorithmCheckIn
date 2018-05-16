@@ -1,4 +1,18 @@
 
+### 0515
+
+105. Construct Binary Tree from Preorder and Inorder Traversal
+
+78. Subsets.
+
+75. Sort Colors.
+
+70. Climbing Stairs.
+
+64. Minimum Path Sum. 
+
+62. Unique Paths.
+
 ### 0514
 
 79. Word Search,
