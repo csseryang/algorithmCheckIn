@@ -1,4 +1,16 @@
 
+### 0516
+
+105. Construct Binary Tree from Preorder and Inorder 
+
+78. Subsets
+
+56. Merge Intervals.
+
+55. Jump Game. 
+
+53. Maximum Subarray. 
+
 ### 0515
 
 105. Construct Binary Tree from Preorder and Inorder Traversal
