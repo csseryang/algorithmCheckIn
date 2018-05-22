@@ -1,4 +1,35 @@
 
+### 0521
+
+48. Rotate Image.
+
+49. Group Anagrams. 
+
+53. Maximum Subarray.
+
+56. Merge Intervals. 
+
+105. Construct Binary Tree from Preorder and Inorder Traversal. 
+
+46. Permutations
+
+39. Combination Sum
+
+### 0520 
+
+78.subsets
+
+105. Construct Binary Tree from Preorder and Inorder Traversal.
+
+56. Merge Intervals.
+ 
+55. Jump Game.
+
+53. Maximum Subarray
+
+49. Group Anagrams
+
+
 ### 0516
 
 105. Construct Binary Tree from Preorder and Inorder 
