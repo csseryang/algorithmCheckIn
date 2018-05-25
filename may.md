@@ -1,4 +1,37 @@
 
+### 0524
+
+19. Remove Nth Node From End of List. 
+
+17. Letter Combinations of a Phone Number.
+
+1. Two Sum. 
+
+15. 3Sum. 
+
+11. Container With Most Water. 
+
+3. Longest Substring Without Repeating Characters. 
+
+### 0523
+
+33. Search in Rotated Sorted Array 
+
+48. Rotate Image. 
+
+49. Group Anagrams, 
+
+56. Merge Intervals
+
+34. Search for a Range.
+
+22. Generate Parentheses. 
+
+21. Merge Two Sorted Lists.
+
+20. Valid Parentheses. 
+
+
 ### 0522
 
 48. Rotate Image
