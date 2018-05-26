@@ -1,5 +1,27 @@
 
-#0525
+### 0525
+
+33. Search in Rotated Sorted Array 
+
+48. Rotate Image. 
+
+49. Group Anagrams, 
+
+56. Merge Intervals. 
+
+34. Search for a Range.
+
+22. Generate Parentheses. 
+
+21. Merge Two Sorted Lists. recursion/ iterative
+
+20. Valid Parentheses. 
+
+836. Rectangle Overlap. 
+
+832. Flipping an Image. 
+
+
 ### 0524
 
 19. Remove Nth Node From End of List. 
