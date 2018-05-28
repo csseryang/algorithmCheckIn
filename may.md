@@ -1,4 +1,11 @@
 
+### 0527 
+
+139. Word Break
+
+141. Linked List Cycle
+
+
 ### 0525
 
 33. Search in Rotated Sorted Array 
