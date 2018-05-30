@@ -1,4 +1,16 @@
 
+### 0529 
+
+after is written
+
+1. Two Sum. 
+
+2. Add Two Numbers. 
+
+3. Longest Substring Without Repeating Characters 、 
+
+5. Longest Palindromic Substring. 
+
 ### 0527 
 
 139. Word Break
