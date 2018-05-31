@@ -1,4 +1,20 @@
 
+### 0530
+
+2. Add Two Numbers. 
+
+3. Longest Substring Without Repeating Characters.
+
+5. Longest Palindromic Substring. 
+
+11. Container With Most Water.   
+
+15. 3Sum . 
+
+17. Letter Combinations of a Phone Number. 
+
+19. Remove Nth Node From End of List. not smooth
+
 ### 0529 
 
 after is written
