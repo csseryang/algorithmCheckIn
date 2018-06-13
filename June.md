@@ -1,5 +1,15 @@
 
 
+### 0612
+
+400. Nth Digit.
+
+399. Evaluate Division.
+
+398. Random Pick Index.
+
+397. Integer Replacement
+
 ### 0609
 
 LeetCode Contest
