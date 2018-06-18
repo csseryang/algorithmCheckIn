@@ -1,5 +1,25 @@
 
 
+### 0616 
+
+396. Rotate Function .
+
+394. Decode String.
+
+389. Find the Difference.
+
+387. First Unique Character in a String
+
+383. Ransom Note. 
+
+374. Guess Number Higher or Lower.
+
+371. Sum of Two Integers.
+
+367. Valid Perfect Square.
+
+contest
+
 ### 0612
 
 400. Nth Digit.
