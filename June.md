@@ -20,21 +20,25 @@
 
 349. Intersection of Two Arrays
 
+350. Intersection of Two Arrays II
+
 346. Moving Average from Data Stream.
 
 345. Reverse Vowels of a String.
 
 ### 0617
 
-359. Logger Rate Limiter.
+400. Nth Digit.
 
-349. Intersection of Two Arrays
+389. Find the Difference.
 
-350. Intersection of Two Arrays II
+387. First Unique Character in a String. 
 
-346. Moving Average from Data Stream.
+383. Ransom Note.
 
-345. Reverse Vowels of a String.
+374. Guess Number Higher or Lower. 
+
+371. Sum of Two Integers.
 
 
 ### 0616 
