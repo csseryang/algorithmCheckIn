@@ -1,4 +1,22 @@
 
+### 0620
+
+346. Moving Average from Data Stream
+
+339. Nested List Weight Sum.
+
+326. Power of Three.
+
+342. Power of Four.
+
+303. Range Sum Query - Immutable. 
+
+293. Flip Game.
+
+292. Nim Game
+
+290. Word Pattern. 
+
 ### 0619
 
 344. Reverse String.
