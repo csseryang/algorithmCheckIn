@@ -1,4 +1,18 @@
 
+### 0622
+
+252. Meeting Rooms.
+
+290. Word Pattern.
+
+293. Flip Game. 
+
+303. Range Sum Query - Immutable. 
+
+246. Strobogrammatic Number.
+
+242. Valid Anagram
+
 ### 0620
 
 346. Moving Average from Data Stream
