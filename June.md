@@ -1,4 +1,32 @@
 
+### 0625
+
+242. Valid Anagram
+
+438. Find All Anagrams in a String.
+
+49. Group Anagrams
+
+### 0624
+
+232. Implement Queue using Stacks.
+
+234. Palindrome Linked List.  
+
+235. Lowest Common Ancestor of a Binary Search Tree.
+
+226. Invert Binary Tree.
+
+225. Implement Stack using Queues.
+
+217. Contains Duplicate.
+
+219. Contains Duplicate II.
+
+### 0623
+
+Contest
+
 ### 0622
 
 252. Meeting Rooms.
