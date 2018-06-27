@@ -1,4 +1,21 @@
 
+### 0626
+
+count non leaf nodes in a tree
+
+Sum of non leaf nodes in a tree
+
+Binary Tree Level Order Traversal
+
+Path Sum
+
+valid Anagram
+
+Group Anagrams
+
+Find All Anagrams in a String.
+ 
+ 
 ### 0625
 
 242. Valid Anagram
