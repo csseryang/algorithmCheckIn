@@ -1,4 +1,29 @@
 
+### 0628
+
+1.
+first occurance of target num
+
+LRU Cache
+
+2.
+
+binary search tree, make left most children as new root
+
+3.
+
+rotate array by d plcaes
+
+valid anagram
+
+merge  m*n sorted arrays into 1d array,
+
+4.
+
+shell how to find intersection of two files
+
+what is sed
+
 ### 0627
 
 347. Top K Frequent Elements
