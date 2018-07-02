@@ -1,5 +1,16 @@
 
-### 0629
+### 0701
+
+191. Number of 1 Bits.
+
+189. Rotate Array. 
+
+172. Factorial Trailing Zeroes
+
+171. Excel Sheet Column Number
+
+
+### 0630
 
 Contest 
 
@@ -9,7 +20,7 @@ Contest
 
 198. House Robber. 
 
-### 0628
+### 0629
 
 1.
 first occurance of target num
