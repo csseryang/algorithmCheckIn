@@ -1,4 +1,19 @@
 
+### 0707
+
+109. Convert Sorted List to Binary Search Tree. 
+
+110. Balanced Binary Tree.
+
+111. Minimum Depth of Binary Tree. 
+
+112. Path Sum.
+
+105. Construct Binary Tree from Preorder and Inorder Traversal.
+
+106. Construct Binary Tree from Inorder and Postorder Traversal.
+
+
 ### 0706
 
 100. same tree. 
