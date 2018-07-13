@@ -1,17 +1,17 @@
 
 ### 0711
 
-261. Graph Valid Tree. minor
+261.Graph Valid Tree. minor
 
-323. Number of Connected Components in an Undirected Graph. 
+323.Number of Connected Components in an Undirected Graph. 
 
-332. Reconstruct Itinerary
+332.Reconstruct Itinerary
 
-339. Nested List Weight Sum. 
+339.Nested List Weight Sum. 
 
-364. Nested List Weight Sum II .
+364.Nested List Weight Sum II .
 
-366. Find Leaves of Binary Tree
+366.Find Leaves of Binary Tree
 
 ### 0710
 
