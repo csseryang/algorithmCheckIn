@@ -1,4 +1,20 @@
 
+### 0714
+
+261. Graph Valid Tree. 
+
+323. Number of Connected Components in an Undirected Graph
+
+332. Reconstruct Itinerary.
+
+339. Nested List Weight Sum. not smooth
+
+364. Nested List Weight Sum II.
+
+366. Find Leaves of Binary Tree. 
+
+417. Pacific Atlantic Water Flow
+
 ### 0711
 
 261.Graph Valid Tree. minor
