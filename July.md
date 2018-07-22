@@ -1,4 +1,18 @@
 
+### 0721
+
+66. Plus One
+
+232. Implement Queue using Stacks
+
+225. Implement Stack using Queues
+
+491. Increasing Subsequences
+
+494. Target Sum
+
+513. Find Bottom Left Tree Value.
+
 ### 0718 
 
 490. The Maze. 
