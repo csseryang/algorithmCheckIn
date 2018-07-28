@@ -1,4 +1,10 @@
 
+### 0727
+
+127. Word Ladder
+
+863. All Nodes Distance K in Binary Tree
+
 ### 0723
 
 531.Lonely Pixel I.
