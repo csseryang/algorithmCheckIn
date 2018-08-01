@@ -1,4 +1,38 @@
 
+### 0731
+
+299. Bulls and Cows.  
+
+41. First Missing Positive.
+
+189. Rotate Array. 
+
+review
+
+26. Remove Duplicates from Sorted Array. 
+
+27. Remove Element.  
+
+80. Remove Duplicates from Sorted Array II. 
+
+277. Find the Celebrity. 
+ 
+55. Jump Game .
+
+121. Best Time to Buy and Sell Stock.
+
+### 0730
+
+243. Shortest Word Distance
+
+244. Shortest Word Distance II.
+
+274. H-Index.
+ 
+275. H-Index II.
+
+134. Gas Station. ok
+
 ### 0728
 
 27. Remove Element
