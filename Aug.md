@@ -1,16 +1,16 @@
 
 
-#0806
+### 0806
 
-56. Merge Intervals . 
+56.Merge Intervals . 
 
-252. Meeting Rooms , 
+252.Meeting Rooms , 
 
-26. Remove Duplicates from Sorted Array. 
+26.Remove Duplicates from Sorted Array. 
 
-277. Find the Celebrity.
+277.Find the Celebrity.
 
-27. Remove Element.
+27.Remove Element.
 
 ### 0805
 
