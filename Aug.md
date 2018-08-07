@@ -12,6 +12,9 @@
 
 27.Remove Element.
 
+55. Jump Game
+
+
 ### 0805
 
 787.Cheapest Flights Within K Stops.
