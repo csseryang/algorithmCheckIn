@@ -1,3 +1,16 @@
+### 0807
+
+55.Jump Game. 
+
+27.Remove Element 
+
+243.Shortest Word Distance .
+
+244.Shortest Word Distance II. 
+
+274.H-Index 
+
+275.H-Index II .
 
 
 ### 0806
