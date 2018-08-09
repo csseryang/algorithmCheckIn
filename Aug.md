@@ -1,3 +1,10 @@
+
+### 0808
+
+longest palindrome substring / transformation
+
+design a deck/ poker game, with function populate/drawAHand/IsRoyalFlush/IsOnePair
+
 ### 0807
 
 55.Jump Game. 
