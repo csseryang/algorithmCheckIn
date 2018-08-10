@@ -1,4 +1,15 @@
 
+### 0809
+134.Gas Station.   
+
+243.Shortest Word Distance.
+
+244.Shortest Word Distance II.
+
+245.Shortest Word Distance III. 
+
+219.Contains Duplicate
+
 ### 0808
 
 longest palindrome substring / transformation
