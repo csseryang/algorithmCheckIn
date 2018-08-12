@@ -1,4 +1,18 @@
 
+### 0811
+
+243.Shortest Word Distance.
+
+244.Shortest Word Distance II.
+
+217.Contains Duplicate.  2 solutions.
+
+219.Contains Duplicate II. 
+
+245.Shortest Word Distance III. 
+
+55.Jump Game. 
+
 ### 0809
 134.Gas Station.   
 
