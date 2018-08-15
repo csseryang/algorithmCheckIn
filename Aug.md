@@ -1,4 +1,39 @@
 
+### 0814
+
+53.Maximum Subarray.
+
+325.Maximum Size Subarray Sum Equals k .
+
+209.Minimum Size Subarray Sum, 
+
+238.Product of Array Except Self. 
+
+228.Summary Ranges.
+
+163.Missing Ranges.  
+
+
+### 0812
+
+121.Best Time to Buy and Sell Stock
+
+122.Best Time to Buy and Sell Stock II
+
+11.Container With Most Water .
+
+42.Trapping Rain Water.
+
+128.Longest Consecutive Sequence.
+
+287.Find the Duplicate Number,
+
+252.Meeting Rooms.
+
+57.Insert Interval.
+
+56.Merge Intervals.  
+
 ### 0811
 
 243.Shortest Word Distance.
