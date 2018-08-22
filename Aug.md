@@ -1,4 +1,36 @@
 
+### 0820
+
+376. Wiggle Subsequence
+
+280. Wiggle Sort
+
+324. Wiggle Sort II
+
+28. Implement strStr() .
+
+14. Longest Common Prefix 
+
+### 0819
+
+376. Wiggle Subsequence.
+
+280. Wiggle Sort
+
+324. Wiggle Sort II
+
+28. Implement strStr() 
+
+14. Longest Common Prefix
+
+75. Sort Colors 
+
+152. Maximum Product Subarray
+
+283. Move Zeroes  
+
+88. Merge Sorted Array .
+
 ### 0818 
 
 152.Maximum Product Subarray. 
