@@ -1,7 +1,28 @@
 
+### 0825
+
+151. Reverse Words in a String 
+
+186. Reverse Words in a String II  
+
+345. Reverse Vowels of a String 
+
+152. Maximum Product Subarray. 
+
+383. Ransom Note . not smooth
+
+205. Isomorphic Strings
+
+293. Flip Game
+
 ### 0823
 
-place holder
+151. Reverse Words in a String
+
+186. Reverse Words in a String II.  
+
+345. Reverse Vowels of a String.
+
 
 ### 0820
 
