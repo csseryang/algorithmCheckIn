@@ -1,4 +1,22 @@
 
+### 0828 
+
+211. Add and Search Word - Data structure design
+
+271. Encode and Decode Strings
+
+168. Excel Sheet Column Title 
+
+### 0827
+271. Encode and Decode Strings
+
+168. Excel Sheet Column Title
+
+171. Excel Sheet Column Number 
+
+171. Excel Sheet Column Number
+
+
 ### 0825
 
 151. Reverse Words in a String 
