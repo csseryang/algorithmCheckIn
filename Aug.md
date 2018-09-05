@@ -1,4 +1,18 @@
 
+### 0831
+
+208. Implement Trie (Prefix Tree) / 
+
+261. Graph Valid Tree / not smooth
+
+323. Number of Connected Components in an Undirected Graph/  
+
+271. Encode and Decode Strings/ 
+
+ 168. Excel Sheet Column Title
+
+205. Isomorphic Strings
+
 ### 0829
 
 208.Implement Trie (Prefix Tree) 
