@@ -1,4 +1,15 @@
-##aaa
+
+
+### 0905
+
+232. Implement Queue using Stacks/
+
+225. Implement Stack using Queues/ 
+
+394. Decode String /
+
+150. Evaluate Reverse Polish Notation / 
+
 ### 0903
 
 339. Nested List Weight Sum /   
