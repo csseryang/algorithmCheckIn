@@ -1,4 +1,26 @@
 
+### 0914
+
+80. Remove Duplicates from Sorted Array II
+
+277. Find the Celebrity 
+
+41. First Missing Positive 
+
+299. Bulls and Cows
+
+### 0913
+
+27. Remove Element 
+
+26. Remove Duplicates from Sorted Array
+
+80. Remove Duplicates from Sorted Array II/
+
+277. Find the Celebrity /
+
+189. Rotate Array 
+
 ### 0911
 
 27. Remove Element  
