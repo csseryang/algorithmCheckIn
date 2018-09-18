@@ -1,3 +1,26 @@
+
+### 0917
+
+334. Increasing Triplet Subsequence 
+
+42. Trapping Rain Water 
+
+128. Longest Consecutive Sequence
+
+287. Find the Duplicate Number
+
+57. Insert Interval 
+
+252. Meeting Rooms/ 
+ 
+56. Merge Intervals /
+
+### 0916
+
+334. Increasing Triplet Subsequence 
+
+42. Trapping Rain Water
+
 ### 0915
 
 274. H-Index 
