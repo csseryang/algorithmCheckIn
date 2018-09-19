@@ -1,4 +1,14 @@
 
+### 0919
+
+56. Merge Intervals
+
+57. Insert Interval 
+
+287. Find the Duplicate Number
+
+128. Longest Consecutive Sequence 
+
 ### 0917
 
 334. Increasing Triplet Subsequence 
