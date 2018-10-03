@@ -1,4 +1,36 @@
 
+### 1002
+
+376. Wiggle Subsequence
+
+324. Wiggle Sort II 
+
+28. Implement strStr() 
+
+14. Longest Common Prefix 
+
+58. Length of Last Word /
+
+387. First Unique Character in a String
+
+383. Ransom Note
+
+344. Reverse String
+
+186. Reverse Words in a String II
+
+### 930
+
+152. Maximum Product Subarray
+
+228. Summary Ranges 
+
+163. Missing Ranges 
+
+88. Merge Sorted Array
+
+75. Sort Colors 
+
 ### 0929
 152. Maximum Product Subarray
 
