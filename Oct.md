@@ -1,4 +1,23 @@
 
+### 1008
+
+1. Two Sum
+
+11. Container With Most Water
+
+53. Maximum Subarray
+
+66.Plus One
+
+122. Best Time to Buy and Sell Stock II
+
+169. Majority Element
+
+42. Trapping Rain Water
+
+121. Best Time to Buy and Sell Stock
+
+
 ### 1006 
 
 359. Logger Rate Limiter
