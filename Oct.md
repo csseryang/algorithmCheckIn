@@ -1,4 +1,14 @@
 
+### 1013
+
+16.3Sum Closest
+
+18.4Sum	
+
+15 3 sum
+
+31 next permuataion
+
 ### 1010
 
 15. 3Sum
