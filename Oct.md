@@ -1,4 +1,23 @@
 
+### 1010
+
+15. 3Sum
+
+283. Move Zeroes, 
+
+88. Merge Sorted Array , 
+
+217. Contains Duplicate
+
+26. Remove Duplicates from Sorted Array
+
+56. Merge Intervals
+
+48. Rotate Image
+
+27. Remove Element
+
+
 ### 1008
 
 1. Two Sum
