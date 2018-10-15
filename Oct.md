@@ -1,4 +1,12 @@
 
+### 1014
+
+98	Validate Binary Search Tree
+
+100 same tree
+
+101.symmetric
+
 ### 1013
 
 16.3Sum Closest
