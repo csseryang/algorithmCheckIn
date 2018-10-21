@@ -1,6 +1,12 @@
 
 ### 1021
 
+112 Path Sum
+
+113 Path Sum II 
+
+114 Flatten Binary Tree to Linked List
+
 ### 1018
 LRU Cache
 
