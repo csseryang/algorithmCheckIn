@@ -1,4 +1,22 @@
 
+### 1024
+
+House Robber III 
+
+Nested List Weight Sum
+
+199 Binary Tree Right Side View 
+
+112 Path Sum
+
+113 Path Sum II 
+
+114 Flatten Binary Tree to Linked List/
+
+207 Course Schedule    
+
+200 number of islands
+
 ### 1022
 
 112 Path Sum
