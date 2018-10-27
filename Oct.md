@@ -1,4 +1,24 @@
 
+### 1026
+Surrounded Regions
+
+Clone Graph
+
+Binary Tree Right Side View
+
+
+Number of Islands
+
+Course Schedule
+
+Course Schedule II
+
+Graph Valid Tree
+
+Walls and Gates
+
+Number of Connected Components in an Undirected Graph
+
 ### 1024
 
 House Robber III 
