@@ -1,4 +1,30 @@
 
+### 1127
+
+what’s singleton design pattern
+
+what design patterns do u know.
+
+test frameworks do u know
+
+test methods do u know
+
+problems about cvs..
+
+what do u know about exceptions
+				threads
+talk about the api components of ur company
+
+what questions do u have?
+
+ood:
+	design parking lot
+	design custom hashtable 
+
+
+bq:
+	what’s most challenging
+
 ### 1123
 
 https://wdxtub.com/interview/14520594642530.html
