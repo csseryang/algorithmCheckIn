@@ -1,5 +1,46 @@
 
 
+### 1218
+
+349. Intersection of Two Arrays 
+
+350. Intersection of Two Arrays II
+
+315. Count of Smaller Numbers After Self 
+
+300. Longest Increasing Subsequence  
+
+### 1217
+
+33. Search in Rotated Sorted Array / 
+
+153. Find Minimum in Rotated Sorted Array /  
+
+162. Find Peak Element / 
+ 
+374. Guess Number Higher or Lower /  
+
+
+### 1216
+
+33. Search in Rotated Sorted Array /  
+
+153. Find Minimum in Rotated Sorted Array /
+
+162. Find Peak Element 
+
+374. Guess Number Higher or Lower
+
+34. Find First and Last Position of Element in Sorted Array
+
+349. Intersection of Two Arrays 
+
+350. Intersection of Two Arrays II
+
+315. Count of Smaller Numbers After Self 
+
+300. Longest Increasing Subsequence /
+
 ### 1214
 
 35. Search Insert Position 
