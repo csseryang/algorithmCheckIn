@@ -1,4 +1,17 @@
 
+### 1219 
+
+54. Spiral Matrix
+
+59. Spiral Matrix II 
+
+73. Set Matrix Zeroes 
+
+311. Sparse Matrix Multiplication  
+
+329. Longest Increasing Path in a Matrix 
+
+378. Kth Smallest Element in a Sorted Matrix 
 
 ### 1218
 
