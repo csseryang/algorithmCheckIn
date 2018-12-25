@@ -1,4 +1,59 @@
 
+
+### 1224
+
+370. Range Addition / 
+
+79. Word Search / 
+
+361. Bomb Enemy /  
+
+317. Shortest Distance from All Buildings 
+
+200. Number of Islands 
+
+286. Walls and Gates
+
+130. Surrounded Regions
+
+339. Nested List Weight Sum 
+
+364. Nested List Weight Sum II /
+
+127. Word Ladder/
+
+### 1223
+
+370. Range Addition / 
+
+79. Word Search / 
+
+361. Bomb Enemy /  
+
+317. Shortest Distance from All Buildings 
+
+200. Number of Islands 
+
+286. Walls and Gates
+
+130. Surrounded Regions
+
+339. Nested List Weight Sum 
+
+364. Nested List Weight Sum II /
+
+127. Word Ladder/
+
+### 1222
+
+370. Range Addition
+
+79. Word Search
+
+361. Bomb Enemy 
+
+317. Shortest Distance from All Buildings
+
 ### 1221
 
 311. Sparse Matrix Multiplication 
