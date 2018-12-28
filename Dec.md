@@ -1,4 +1,19 @@
 
+### 1227
+
+N-queens/ 
+
+155. Min Stack / 
+
+ 232. Implement Queue using Stacks /  
+ 
+150. Evaluate Reverse Polish Notation/
+
+394. Decode String / 
+
+### 1226
+
+127. Word Ladder
 
 ### 1224
 
