@@ -1,4 +1,16 @@
 
+### 1229
+
+155. Min Stack / not smooth
+
+ 232. Implement Queue using Stacks / 
+ 
+150. Evaluate Reverse Polish Notation/ 
+
+394. Decode String
+
+224. Basic Calculator/
+
 ### 1227
 
 N-queens/ 
